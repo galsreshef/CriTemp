@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name" translatable="false">CriTemp</string>
+    <string name="none" translatable="false" />
+
+    // temp calculator
+    <string name="tempInstrF">Count the number of chirps\nwithin 14 seconds</string>
+    <string name="tempInstrC">Count the number of chirps\nwithin 25 seconds</string>
+    <string name="tempAns1">Upon your counting of</string>
+    <string name="tempAns2">chirps\nOutside temperature is</string>
+
+    <string name="tempF">Fahrenheit</string>
+    <string name="tempC">Celsius</string>
+    <string name="select_temperature_you_want_to_know">Select Temperature you want to know</string>
+
+
+</resources>

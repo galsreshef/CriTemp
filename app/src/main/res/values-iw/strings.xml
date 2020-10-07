@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //General
+
+    // temp calculator
+    <string name="tempInstrC">כמה צירצורים השמיע הצרצר ב25 שניות</string>
+    <string name="tempInstrF">כמה צירצורים השמיע הצרצר ב14 שניות</string>
+    <string name="tempAns1">לפי ספירתך של </string>
+    <string name="tempAns2">צירצורים\nהטמפרטורה הינה:</string>
+    <string name="tempF">פרנהייט</string>
+    <string name="tempC">צלזיוס</string>
+    <string name="select_temperature_you_want_to_know">בחר את הטמפרטורה לחישוב</string>
+
+</resources>

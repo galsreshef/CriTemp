@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080395303041",
+    "firebase_url": "https://critemp-temperture-conveter.firebaseio.com",
+    "project_id": "critemp-temperture-conveter",
+    "storage_bucket": "critemp-temperture-conveter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080395303041:android:fc2680075f758938a86580",
+        "android_client_info": {
+          "package_name": "com.thegalos.critemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080395303041-00u901jnkmsses485alkv0djn1ka9qvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPc1zKp_3B0g9IyYUH6nWfcFCb8DAaV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080395303041-00u901jnkmsses485alkv0djn1ka9qvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
